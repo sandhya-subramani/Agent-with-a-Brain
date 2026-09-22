@@ -1,0 +1,7 @@
+Slack channel #support-team at XYZ Retail.
+
+[2025-11-03] Sam Patel (Support Manager): Holiday returns are extended to January 31 again this year. Applies to anything delivered Nov 1 through Dec 24.
+[2025-12-02] Jordan Lee: Third Nordic Oak desk wobble call today. Merch says offer the NL-200 leg kit first, it fixes it. Free, ships in 2 days.
+[2025-12-15] Sam Patel: Trailhead tent is FINAL SALE as of today. No returns, no exchanges. Tell customers before they buy.
+[2026-01-06] Jordan Lee: Customer asked if we price match. We do not. Point them to our 30-day return window instead.
+[2026-01-12] Sam Patel: Please do not paste customer card numbers or full addresses in Slack or in the agent. Order number only.

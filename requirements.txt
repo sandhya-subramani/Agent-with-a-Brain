@@ -1,0 +1,4 @@
+# Python 3.10 to 3.14 (cognee does not support 3.15 yet)
+cognee[aws]>=1.6.0
+strands-agents>=1.56.0
+python-dotenv>=1.0
